@@ -29,3 +29,4 @@ TODO:
 # Pomodoro 2  🍅 18:10
 
 - Should return a array with the numbers [2, 3] when a array [4,3,2,5] are sended 🚧
+- Refactoring of the first test case to find de lowest numbers on two different numbers 🚧
