@@ -7,6 +7,12 @@ const sumTwoSmallestNumbers = (numbers) => {
     return result;
 }
 
+const min = (firstNumber, secondNumber) => {
+    return firstNumber <= secondNumber ? firstNumber : secondNumber;
+}
+
 module.exports = {
-    sumTwoSmallestNumbers
+    sumTwoSmallestNumbers,
+    min
+
 }
