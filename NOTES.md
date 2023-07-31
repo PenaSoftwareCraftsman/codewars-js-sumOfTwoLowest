@@ -24,4 +24,8 @@ TODO:
 
 - Testing case:
 
-- Should return the the number 1 when the array [1, 2, 3, 4] are sended 🚧
+- Should return the the number 1 when the array [1, 2, 3, 4] are sended ✅
+
+# Pomodoro 2  🍅 18:10
+
+- Should return a array with the numbers [2, 3] when a array [4,3,2,5] are sended 🚧
