@@ -8,12 +8,16 @@ For example, when an array is passed like [19, 5, 42, 2, 77], the output should 
 
 # Domains
 
+Input - array of 4 positive integers at least
+output - sum of the two lowest positive numbers
+
 **Label**  
 ✅ done 🚧 WIP ❌ ERROR
 
 TODO:
 
-# Pomodoro 1 🍅:
+# Pomodoro 1 🍅 17:30:
 
-- README and Notes 🚧
-- initial setup (organize function name and domain) 🚧
+- README and Notes ✅
+- initial setup (organize function name and domain) ✅
+- Domains searching ✅
