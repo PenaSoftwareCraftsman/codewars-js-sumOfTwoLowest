@@ -1,5 +1,5 @@
-const { dumb } = require("./../src/index");
+const { sumTwoSmallestNumbers } = require("./../src/index");
 
-describe('Dumb', () => {
+describe('sumTwoSmallestNumbers', () => {
     
 });

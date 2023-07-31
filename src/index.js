@@ -1,7 +1,7 @@
-const dumb = () => {
+const sumTwoSmallestNumbers = () => {
 
 }
 
 module.exports = {
-    dumb
+    sumTwoSmallestNumbers
 }

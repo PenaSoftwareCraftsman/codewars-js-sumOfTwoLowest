@@ -1,14 +1,14 @@
 {
   "name": "codewars-js-template",
   "version": "1.0.0",
-  "description": "XXXX A short description XXXXXX",
+  "description": "Sum of the two lowest positive numbers given an array of minimum 4 positive integers. ",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {},
   "devDependencies": {
-    "jest": "^29.6.1"
+    "jest": "^29.6.2"
   },
   "scripts": {
     "start": "node src/index.js",
